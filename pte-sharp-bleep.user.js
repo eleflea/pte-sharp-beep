@@ -6,8 +6,8 @@
 // @author       eleflea
 // @match        https://www.ptexj.com/practice/repeat_sentences/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=ptexj.com
-// @downloadURL  https://update.greasyfork.org/scripts/498197/Auto%20Skip%20YouTube%20Ads.user.js
-// @updateURL    https://update.greasyfork.org/scripts/498197/Auto%20Skip%20YouTube%20Ads.meta.js
+// @downloadURL  https://raw.githubusercontent.com/eleflea/pte-sharp-bleep/main/pte-sharp-bleep.user.js
+// @updateURL    https://raw.githubusercontent.com/eleflea/pte-sharp-bleep/main/pte-sharp-bleep.user.js
 // @grant        none
 // @license      MIT
 // ==/UserScript==
