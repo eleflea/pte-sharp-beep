@@ -26,7 +26,7 @@
 
 👉 点击下面的链接安装脚本：
 
-🔗 [点我安装脚本](https://raw.githubusercontent.com/eleflea/pte-sharp-bleep/main/pte-sharp-bleep.user.js)
+🔗 [点我安装脚本](https://raw.githubusercontent.com/eleflea/pte-sharp-beep/main/pte-sharp-beep.user.js)
 
 > 安装时，Tampermonkey 会弹出提示页面，点击“安装”即可。
 

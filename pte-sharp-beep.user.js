@@ -6,8 +6,8 @@
 // @author       eleflea
 // @match        https://www.ptexj.com/practice/repeat_sentences/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=ptexj.com
-// @downloadURL  https://raw.githubusercontent.com/eleflea/pte-sharp-bleep/main/pte-sharp-bleep.user.js
-// @updateURL    https://raw.githubusercontent.com/eleflea/pte-sharp-bleep/main/pte-sharp-bleep.user.js
+// @downloadURL  https://raw.githubusercontent.com/eleflea/pte-sharp-beep/main/pte-sharp-beep.user.js
+// @updateURL    https://raw.githubusercontent.com/eleflea/pte-sharp-beep/main/pte-sharp-beep.user.js
 // @grant        none
 // @license      MIT
 // ==/UserScript==
@@ -22,7 +22,7 @@
   // 创建 beep 播放器
   const beepAudio = new Audio(beepAudioBase64);
 
-  const STORAGE_KEY = "tampermonkey-RS-bleep-audio-gain";
+  const STORAGE_KEY = "tampermonkey-RS-beep-audio-gain";
   const DEFAULT_GAIN = 1.0;
 
   // 从 localStorage 加载保存的增益值
